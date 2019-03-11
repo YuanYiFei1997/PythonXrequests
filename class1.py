@@ -1,5 +1,5 @@
 import requests
-url = "http://www.amazon.cn/gp/product/B01M8L5Z3Y"
+url = "http://www.baidu.com"
 # def getHTMLText(url):
 #     try:
 #         r=requests.get(url,timeout=30)
